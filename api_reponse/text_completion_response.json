@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-6Qyw6gFiMtAo6ZZOMme4e4EGi0v9l",
+  "object": "text_completion",
+  "created": 1671888786,
+  "model": "text-davinci-003",
+  "choices": [
+    {
+      "text": "\n\nFlutter is an open-source mobile application development framework created by Google",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "length"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 4,
+    "completion_tokens": 16,
+    "total_tokens": 20
+  }
+}
